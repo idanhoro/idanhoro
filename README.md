@@ -56,9 +56,3 @@
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=idanhoro&layout=compact">
-
-
-
-![idanhoro's github stats](https://github-readme-stats.vercel.app/api?username=idanhoro&show_icons=true&hide=[%22issues%22])
- 
- 
