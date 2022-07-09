@@ -54,3 +54,7 @@
 <br>
 
 ![idanhoro's github stats](https://github-readme-stats.vercel.app/api?username=idanhoro&show_icons=true&hide=[%22issues%22])
+
+## Snake
+
+![snake gif](https://github.com/idanhoro/idanhoro/blob/output/github-contribution-grid-snake.gif)
