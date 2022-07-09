@@ -57,4 +57,4 @@
 
 ## Snake
 
-![snake gif](https://github.com/idanhoro/idanhoro/blob/output/github-contribution-grid-snake.gif)
+[//]: # ![snake gif](https://github.com/idanhoro/idanhoro/blob/output/github-contribution-grid-snake.gif)
