@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Idan+Horovitz+:D)](https://git.io/typing-svg)
 
 
-![snake gif](https://github.com/idanhoro/idanhoro/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=idanhoro&layout=compact">
 
