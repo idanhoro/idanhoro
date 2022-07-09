@@ -1,6 +1,8 @@
+## Hey, Idan here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
 ![banner](https://user-images.githubusercontent.com/65775948/178121332-5598ad12-b184-4468-812a-4e50239fb46e.png)
 
-## Hey, Idan here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-IdanHorovitz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idan-horovitz-14224921a/)](https://www.linkedin.com/in/idan-horovitz-14224921a/) [![Gmail Badge](https://img.shields.io/badge/-idanhh55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:idanhh55@gmail.com)
 
@@ -29,9 +31,8 @@
 <code> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></code>
 <code><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></code>
-<code><a href="https://user-images.githubusercontent.com/65775948/178122546-e9b351ea-c597-447f-bf4c-3d80a3b97e3e.png"
-alt="docker" width="40" height="40"/> </a></code>
-<code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></code> 
+<code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122600-2ccb2340-0432-4ac6-87dd-0b4d3b50156f.png"></code>
 
 
 #
