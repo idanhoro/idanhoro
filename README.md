@@ -18,7 +18,7 @@
 <code><a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122876-9d84ed70-7977-4eb9-88f3-49b484f9beee.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122940-0cf150b7-066a-43f3-8b0c-cbf45fb9eb27.png"></code>
 <code><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
 
 
