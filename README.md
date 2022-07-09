@@ -33,7 +33,8 @@
 <code><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></code>
 <code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122600-2ccb2340-0432-4ac6-87dd-0b4d3b50156f.png"></code>
-
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178124412-7ef9a5f8-af19-47bf-822c-4984c71c253b.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178124450-0d4efc6a-bbc1-4c41-9e04-3f2a9416ccad.png"></code>
 
 #
 
