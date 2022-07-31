@@ -55,3 +55,10 @@
 <br>
 
 ![idanhoro's github stats](https://github-readme-stats.vercel.app/api?username=idanhoro&show_icons=true&hide=[%22issues%22])
+
+<br>
+<br>
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
+
+
+
