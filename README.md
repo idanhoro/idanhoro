@@ -41,8 +41,8 @@
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/182528968-d8074297-6295-4ead-84bf-46015723699d.jpg"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/182529082-9291b0bf-5abc-4451-bb70-6a3cc486f754.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/182529433-798ee34d-19ff-4e14-81a5-0936b4b2c6aa.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/182529495-062e0db2-718a-442c-ae94-646ff568479e.png"></code>
 
 
 #
