@@ -8,60 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Idan+Horovitz+:D)](https://git.io/typing-svg)
 
-
-# Tools and technologies
-
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122940-0cf150b7-066a-43f3-8b0c-cbf45fb9eb27.png"></code>
-<code><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
-
-
-
-#
-
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></code>
-<code><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></code>
-<code><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122600-2ccb2340-0432-4ac6-87dd-0b4d3b50156f.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178124412-7ef9a5f8-af19-47bf-822c-4984c71c253b.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178124450-0d4efc6a-bbc1-4c41-9e04-3f2a9416ccad.png"></code>
-
-#
-
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/182529433-798ee34d-19ff-4e14-81a5-0936b4b2c6aa.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/182529495-062e0db2-718a-442c-ae94-646ff568479e.png"></code>
-
-
-#
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178124601-f816d806-03eb-44c7-8750-099451273ac8.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178122482-612ffe8a-fa96-4db7-99bf-a9da660b35ff.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/65775948/178124562-2a3e3c6b-fde6-43d2-97cb-e22aaaf0fbd9.png"></code>
-
-
 <br>
 <br>
 
 ![idanhoro's github stats](https://github-readme-stats.vercel.app/api?username=idanhoro&show_icons=true&hide=[%22issues%22])
 
-<br>
-<br>
-<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/65775948/182004326-28fd3663-cf0a-4473-8840-a1adfa219707.png">
 
 
 
